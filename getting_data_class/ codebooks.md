@@ -1,1 +1,1 @@
-### Code Book is provided in tyhe README.md file
+### Code Book is provided in the README.md file
